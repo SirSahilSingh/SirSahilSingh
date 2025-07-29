@@ -2,16 +2,15 @@
 <h3 align="center">A fuzzy DATA ANALYST</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=12LbR8Kyezq96D8oSZNzkAHl8gdofo9U2" alt="Sahil's Ghibli Avatar" width="250" align="right">
+  <img src="https://drive.google.com/uc?export=view&id=12LbR8Kyezq96D8oSZNzkAHl8gdofo9U2" alt="Sahil's Ghibli Avatar" width="300" align="right">
 </p>
-
+  
 - 🌱 I’m currently learning **ML and Advanced SQL**  
 - 💬 Ask me about **Data Analytics**  
 - 📫 How to reach me: **sahil040305@gmail.com**  
 - 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/14x8mDOJVuYYlAxvlS2bFKruIRcYowi-U/view?usp=sharing)  
 - ⚡ Fun fact: **I can CODE (Sometimes)**  
 
----
 
 ### Connect with me:
 <p>
@@ -24,8 +23,9 @@
 </p>
 
 ---
+### Languages and Tools
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -46,10 +46,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/105px-Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
   </a>
 </p>
 
