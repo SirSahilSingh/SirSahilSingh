@@ -1,9 +1,9 @@
-<table>
-  <tr>
-    <td>
+<h1 align="center">Hi 👋, I'm SINGH SAHIL</h1>
+<h3 align="center">A fuzzy DATA ANALYST</h3>
 
-<h1 align="left">Hi 👋, I'm SINGH SAHIL</h1>
-<h3 align="left">A fuzzy DATA ANALYST</h3>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=12LbR8Kyezq96D8oSZNzkAHl8gdofo9U2" alt="Sahil's Ghibli Avatar" width="250" align="right">
+</p>
 
 - 🌱 I’m currently learning **ML and Advanced SQL**  
 - 💬 Ask me about **Data Analytics**  
@@ -11,17 +11,10 @@
 - 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/14x8mDOJVuYYlAxvlS2bFKruIRcYowi-U/view?usp=sharing)  
 - ⚡ Fun fact: **I can CODE (Sometimes)**  
 
-</td>
-    <td>
-      <img src="https://drive.google.com/uc?export=view&id=12LbR8Kyezq96D8oSZNzkAHl8gdofo9U2" width="250"/>
-    </td>
-  </tr>
-</table>
-
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Connect with me:
+<p>
   <a href="https://linkedin.com/in/sirsinghsahil" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -32,40 +25,36 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+### Languages and Tools:
+<p>
+  <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/>
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/105px-Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirsahilsingh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirsahilsingh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sirsahilsingh&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirsahilsingh&show_icons=true&locale=en" alt="GitHub Stats" />
