@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm SINGH SAHIL</h1>
-<h3 align="center">A fuzzy DATA ANALYST</h3>
-<br>
-<br>
+<h2 align="center">A fuzzy DATA ANALYST</h3>
+<br> <br>
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=12LbR8Kyezq96D8oSZNzkAHl8gdofo9U2" alt="Sahil's Ghibli Avatar" width="280" align="right">
 </p>
