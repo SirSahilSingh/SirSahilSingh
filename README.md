@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm SINGH SAHIL</h1>
-<h3 align="center">A fuzzy DATA ANALYST</h3>
+<h3 align="center">A fuzzy AI DEVELOPER</h3>
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=12LbR8Kyezq96D8oSZNzkAHl8gdofo9U2" alt="Sahil's Ghibli Avatar" width="280" align="right">
 </p>
   
-- 🌱 I’m currently learning **ML and Advanced SQL**  
-- 💬 Ask me about **Data Analytics**  
+- 🌱 I build **AI Agents & Workflows**  
 - 📫 How to reach me: **sahil040305@gmail.com**  
 - 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/14x8mDOJVuYYlAxvlS2bFKruIRcYowi-U/view?usp=sharing)  
-- ⚡ Fun fact: **I can CODE (Sometimes)**  
+- ⚡ Fun fact: **ABSOLUTELY NOTHING**  
 
 ---
 
